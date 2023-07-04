@@ -2,30 +2,30 @@
 **/
 
 
-global.owner = ['6281395861695', '59894808483']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
+global.owner = ['6282139341212', '6285771662428']  
+global.mods = ['6282139341212'] 
+global.prems = ['6282139341212', '6285771662428']
+global.nameowner = 'Baim'
+global.numberowner = '6282139341212' 
+global.mail = 'baimxyz@gmail.com' 
+global.dana = '082139341212'
+global.pulsa = '082139341212'
+global.gopay = '082139341212'
+global.namebot = '© imzz bot'
+global.gc = 'https://chat.whatsapp.com/CWzqr6PIngk0G0ZvrriS0m'
 global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.wm = '© imzz bot'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
-global.wm4 = '© BotWa'
+global.wm2 = '⫹⫺ imzz bot'
+global.wm3 = '© imzz bot'
+global.wm4 = '© Bot WhatsApp'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
+global.benar = 'Benar\n'
+global.salah = 'Salah\n'
+global.stiker_wait = '*Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
+global.author = 'Imzz Bot'
 
 
 global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
