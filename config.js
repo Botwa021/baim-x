@@ -29,13 +29,13 @@ global.author = 'Imzz Bot'
 
 
 global.btc = 'GNYdpOyf' //Daftar terlebih dahulu https://api.botcahx.live
-global.lann = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.betabotz.org 
+global.lann = 'HQT3kahr' //Daftar terlebih dahulu https://api.betabotz.org 
 
 global.APIs = { 
   tio: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'YOUR_APIKEY_HERE' //isi apikey mu https://api.botcahx.live
+  'https://api.botcahx.live': 'GNYdpOyf' //isi apikey mu https://api.botcahx.live
 }
 
 global.multiplier = 45
