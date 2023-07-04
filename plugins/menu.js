@@ -48,7 +48,7 @@ let tags = {
 const defaultMenu = {
   before: `
 Hi %name
-I am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.
+I'm WhatsApp Bot yang di bangun oleh Baim, dengan node-Js dengan menggunakan server yang lumayan kencang.
 
  ◦  *Library:* Baileys
  ◦  *Function:* Assistant
