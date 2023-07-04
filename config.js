@@ -28,7 +28,7 @@ global.packname = 'Made with'
 global.author = 'Imzz Bot'
 
 
-global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
+global.btc = 'GNYdpOyf' //Daftar terlebih dahulu https://api.botcahx.live
 global.lann = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.betabotz.org 
 
 global.APIs = { 
